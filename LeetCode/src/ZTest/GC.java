@@ -23,7 +23,7 @@ public class GC {
             System.out.println("No , I am dead");
         }
     }
- 
+
     @Override
     protected void finalize() throws Throwable {
         super.finalize();
