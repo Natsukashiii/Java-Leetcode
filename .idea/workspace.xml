@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4270b62f-6772-4f55-9ec7-9cad7b2dce78" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/Pro02/AddTwoNumbers/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Pro02/AddTwoNumbers/ListNode.java" afterDir="false" />
-    </list>
+    <list default="true" id="4270b62f-6772-4f55-9ec7-9cad7b2dce78" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +14,8 @@
       <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Pro02/AddTwoNumbers/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="105">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -178,12 +176,12 @@
       <workItem from="1526456298729" duration="217000" />
       <workItem from="1526995207616" duration="506000" />
       <workItem from="1526996675184" duration="5000" />
-      <workItem from="1527866602858" duration="539000" />
+      <workItem from="1527866602858" duration="541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1267000" />
+    <option name="totallyTimeSpent" value="1269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -227,8 +225,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LeetCode/src/Pro02/AddTwoNumbers/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="105">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
