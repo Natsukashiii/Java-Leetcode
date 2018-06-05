@@ -1,11 +1,12 @@
 package ZTest;
 
-public class GC {
+public class numberChange2
+{
 
-    public static GC SAVE_HOOK = null;
+    public static numberChange2 SAVE_HOOK = null;
 
     public static void main(String[] args) throws InterruptedException {
-        SAVE_HOOK = new GC();
+        SAVE_HOOK = new numberChange2();
         SAVE_HOOK = null;
         System.gc();
         Thread.sleep(500);
@@ -15,7 +16,7 @@ public class GC {
             System.out.println("No , I am dead");
         }
         SAVE_HOOK = null;
-        System.gc();
+        System.gc();   
         Thread.sleep(500);
         if (null != SAVE_HOOK) {
             System.out.println("Yes , I am still alive");
