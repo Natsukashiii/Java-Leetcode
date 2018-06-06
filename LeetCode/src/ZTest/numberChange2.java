@@ -16,7 +16,7 @@ public class numberChange2
             System.out.println("No , I am dead");
         }
         SAVE_HOOK = null;
-        System.gc();   
+        System.gc();
         Thread.sleep(500);
         if (null != SAVE_HOOK) {
             System.out.println("Yes , I am still alive");
