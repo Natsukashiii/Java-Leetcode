@@ -4,8 +4,6 @@ package Pro08.StringtoInteger;
 //    如果开头第一个不为空的字符是+或—号，返回正负
 //    如果开头不是数字，返回0
 //写的太丑陋了。。。。。。
-//强行大晚上写完觉得太太丑了。。。基本上看见什么需求就加了
-
 import javax.sound.midi.Soundbank;
 import java.math.BigInteger;
 import java.util.Scanner;

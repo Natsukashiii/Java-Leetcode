@@ -16,8 +16,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="99" column="60" selection-start-line="99" selection-start-column="60" selection-end-line="99" selection-end-column="60" />
+            <state relative-caret-position="75">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -339,12 +339,12 @@
       <workItem from="1528268974732" duration="459000" />
       <workItem from="1528335144095" duration="5066000" />
       <workItem from="1528356844107" duration="18000" />
-      <workItem from="1528464360741" duration="6605000" />
+      <workItem from="1528464360741" duration="6686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39871000" />
+    <option name="totallyTimeSpent" value="39952000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -442,85 +442,85 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>105</line>
+          <line>103</line>
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>85</line>
+          <line>83</line>
           <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>108</line>
+          <line>106</line>
           <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>41</line>
+          <line>39</line>
           <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>43</line>
+          <line>41</line>
           <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>48</line>
+          <line>46</line>
           <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>114</line>
+          <line>112</line>
           <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>59</line>
+          <line>57</line>
           <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>65</line>
+          <line>63</line>
           <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>67</line>
+          <line>65</line>
           <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>68</line>
+          <line>66</line>
           <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>126</line>
+          <line>124</line>
           <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>131</line>
+          <line>129</line>
           <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java</url>
-          <line>135</line>
+          <line>133</line>
           <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
@@ -889,8 +889,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Pro08/StringtoInteger/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="99" column="60" selection-start-line="99" selection-start-column="60" selection-end-line="99" selection-end-column="60" />
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
