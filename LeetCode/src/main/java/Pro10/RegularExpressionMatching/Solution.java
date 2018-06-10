@@ -28,6 +28,7 @@ public class Solution
             if (string2.charAt(i)==42){
                 mapLocation.put(i,string2.charAt(i-1));
             }
+            
         }
     }
 }
