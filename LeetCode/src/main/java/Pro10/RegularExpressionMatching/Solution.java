@@ -18,9 +18,9 @@ package Pro10.RegularExpressionMatching;
 
         仍然从待检字符串尾部向前扫描，设0≤j<s.length()，考虑对于子串s[j..s.length()-1]能够在
         正则表达式p找到匹配（match[j]）的条件为s[j+1...s.length()-1]匹配且s[j]也能够在pattern中找到匹配。
-        如何判断“s[j]也能够在pattern中找到匹配”呢？需要分两种情况讨论，设i为pattern索引，第一种情况：若p[i]不为'*'
-        ，则进行单字符判断，当p[i]=='.'或p[i]==s[j]时match[j]成立；第二种情况：p[i]为"*"，
-        则match[j]成立的条件为p[i-1]=='.'或p[i-1]==p[j]。另外，在这种情况下若match[j]已经被置为true，
+        “s[j]也能够在pattern中找到匹配”
+        设i为pattern索引，第一种情况：若p[i]不为'*'，则进行单字符判断，当p[i]=='.'或p[i]==s[j]时match[j]成立；
+        第二种情况：p[i]为"*"，则match[j]成立的条件为p[i-1]=='.'或p[i-1]==p[j]。另外，在这种情况下若match[j]已经被置为true，
         就算p[i-1]=='.'||p[i-1]==p[j]不成立也应将其值保持，因为*出现时，其之前元素可以为0个。
 
         动态规划
