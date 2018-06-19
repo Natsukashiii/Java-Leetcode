@@ -1,7 +1,6 @@
 package Pro14.LongestCommonPrefix;
 
 //查找字符串数组中的最长公共前缀。
-//https://blog.csdn.net/zsy112371/article/details/52433799
 //        如果不存在公共前缀，返回空字符串 ""
 
 import java.lang.reflect.Array;
