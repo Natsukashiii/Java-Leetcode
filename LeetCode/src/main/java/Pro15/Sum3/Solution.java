@@ -24,55 +24,79 @@ public class Solution
 
     public List<List<Integer>> threeSum(int[] nums)
     {
-        int length = nums.length;
-        int num1 = 0, num2 = 0, num3 = 0;
-        List<List<Integer>> res = new ArrayList<List<Integer>>();
-        List<Integer> resList = new ArrayList<Integer>();
-        List<Integer> numsList = new ArrayList<Integer>();
-        List<Integer> tempnumsList = new ArrayList<Integer>();
+        List<List<Integer>> result = new ArrayList<List<Integer>>();
 
-        for (int i = 0; i < length; i++)
+        if (nums != null && nums.length > 2)
         {
-            numsList.add(nums[i]);
-//            System.out.println(nums[i]);
-        }
-
-
-        for (int i = 0; i < length; i++)
-        {
-            num1 = nums[i];
-            for (int j = i + 1; j < length; j++)
+            // 先对数组进行排序
+            Arrays.sort(nums);
+            // i表示如果取第i个数作为结果
+            for (int i = 0; i < nums.length - 2; )
             {
-                num2 = nums[j];
-                num3 = 0 - num1 - num2;
-                tempnumsList = numsList.subList(j + 1, length);
-                System.out.println("temp: "+tempnumsList);
-                if (tempnumsList.contains(num3))
-                {
-                    resList.clear();
-                    resList.add(num1);
-                    resList.add(num2);
-                    resList.add(num3);
-                    System.out.println("num1: " + num1);
-                    System.out.println("num2: " + num2);
-                    System.out.println("num3: " + num3);
-                    res.add(resList);
-                    System.out.println("res: "+res);
+                // 第二个数可能的起始位置
+                int j = i + 1;
+                // 第三个数可能是结束位置
+                int k = nums.length - 1;
 
+                while (j < k)
+                {
+                    // 如果找到满足条件的解
+                    if (nums[j] + nums[k] == -nums[i])
+                    {
+                        // 将结果加入到结果含集中
+                        List<Integer> list = new ArrayList<Integer>(3);
+                        list.add(nums[i]);
+                        list.add(nums[j]);
+                        list.add(nums[k]);
+                        result.add(list);
+
+                        // 移动到下一个位置。找下一组解
+                        k--;
+                        j++;
+
+                        // 从左向右找第一个与之前处理的数不同的数的下标
+                        while (j < k && nums[j] == nums[j - 1])
+                        {
+                            j++;
+                        }
+                        // 从右向左找第一个与之前处理的数不同的数的下标
+                        while (j < k && nums[k] == nums[k + 1])
+                        {
+                            k--;
+                        }
+                    }
+                    // 和大于0
+                    else if (nums[j] + nums[k] > -nums[i])
+                    {
+                        k--;
+                        // 从右向左找第一个与之前处理的数不同的数的下标
+                        while (j < k && nums[k] == nums[k + 1])
+                        {
+                            k--;
+                        }
+                    }
+                    // 和小于0
+                    else
+                    {
+                        j++;
+                        // 从左向右找第一个与之前处理的数不同的数的下标
+                        while (j < k && nums[j] == nums[j - 1])
+                        {
+                            j++;
+                        }
+                    }
+                }
+
+                // 指向下一个要处理的数
+                i++;
+                // 从左向右找第一个与之前处理的数不同的数的下标
+                while (i < nums.length - 2 && nums[i] == nums[i - 1])
+                {
+                    i++;
                 }
             }
         }
-        for (List<Integer> resNum : res)
-        {
-            System.out.println("resNum: "+resNum);
-        }
 
-        //去重
-        Set<List<Integer>> set = new HashSet<List<Integer>>(res);
-        System.out.println("Set: "+set);
-        res.clear();
-        res.addAll(set);
-
-        return res;
+        return result;
     }
 }
