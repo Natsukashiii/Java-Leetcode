@@ -207,9 +207,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="797" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -479,12 +478,12 @@
       <workItem from="1529456550785" duration="3586000" />
       <workItem from="1529503293790" duration="326000" />
       <workItem from="1529573565404" duration="2143000" />
-      <workItem from="1531374458979" duration="3251000" />
+      <workItem from="1531374458979" duration="3755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69138000" />
+    <option name="totallyTimeSpent" value="69642000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -497,7 +496,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
@@ -508,7 +506,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38060606" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38060606" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32991204" />
       <window_info id="Capture Tool" order="2" />
