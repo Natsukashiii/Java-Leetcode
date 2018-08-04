@@ -1,8 +1,12 @@
+package chattingroom.threadaction;
+
 import java.io.IOException;
 import java.io.OutputStream;
 import java.util.Scanner;
 
-
+/**
+ * 发送数据线程
+ */
 public class ThreadWriter implements Runnable{
 
 

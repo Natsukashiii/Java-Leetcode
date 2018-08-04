@@ -1,17 +1,18 @@
-import java.io.BufferedReader;
+package chattingroom.threadaction;
+
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.InputStreamReader;
 
 
 /**
- * @author natsukashii
+ * 读取输入流线程
  */
 public class ThreadReader implements Runnable
 {
-
-    //private static int HEAD_SIZE=5;//传输最大字节长度
-    //private static int BUFFER_SIZE=10;//每次读取10个字节
+    //传输最大字节长度
+    private static int HEAD_SIZE=5;
+    //每次读取10个字节
+    private static int BUFFER_SIZE=10;
     private InputStream is;
 
     public ThreadReader(InputStream is)

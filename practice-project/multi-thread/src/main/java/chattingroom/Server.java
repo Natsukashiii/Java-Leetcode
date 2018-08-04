@@ -1,3 +1,7 @@
+package chattingroom;
+
+import chattingroom.util.Constants;
+
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
@@ -9,6 +13,7 @@ public class Server
     private ServerSocket serverSocket;
     //声明客户端
     private static Socket socket;
+
     private String serverName;
 
     public Server()
@@ -45,10 +50,11 @@ public class Server
     {
         String key = socket.getInetAddress().getHostAddress() + ":" + socket.getPort();
         System.out.println("监听到的服务端为：" + key);
-        Thread thread = new Thread(new ThreadSocket(socket));
+        Thread thread = new Thread(new ServerThreadSocket(socket));
         thread.setName(serverName);
         thread.start();
     }
+
 
     public static void main(String[] args)
     {

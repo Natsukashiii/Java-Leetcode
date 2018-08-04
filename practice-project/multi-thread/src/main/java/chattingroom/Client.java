@@ -1,4 +1,9 @@
-import javax.imageio.IIOParam;
+package chattingroom;
+
+import chattingroom.threadaction.ThreadReader;
+import chattingroom.threadaction.ThreadWriter;
+import chattingroom.util.Constants;
+
 import java.io.IOException;
 import java.net.Socket;
 import java.util.Scanner;
