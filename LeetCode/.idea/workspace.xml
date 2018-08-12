@@ -23,12 +23,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="415" />
+          <entry key="java" value="420" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="415" />
+          <entry key="JAVA" value="420" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -66,20 +66,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Pro21/MergeTwoLists/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            <state relative-caret-position="105">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Pro21/MergeTwoLists/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="147">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -213,8 +217,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Pro19/RemoveNthFromEnd/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pro19/RemoveNthFromEnd/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pro20/ValidParentheses/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Pro21/MergeTwoLists/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pro21/MergeTwoLists/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Pro21/MergeTwoLists/Solution.java" />
       </list>
     </option>
   </component>
@@ -326,7 +330,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534069171295" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534069441042" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
@@ -520,12 +524,12 @@
       <workItem from="1533626055411" duration="321000" />
       <workItem from="1533693905269" duration="1008000" />
       <workItem from="1533800379042" duration="375000" />
-      <workItem from="1533905026729" duration="623000" />
+      <workItem from="1533905026729" duration="911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72264000" />
+    <option name="totallyTimeSpent" value="72552000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1061,17 +1065,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Pro21/MergeTwoLists/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Pro21/MergeTwoLists/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        <state relative-caret-position="147">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Pro21/MergeTwoLists/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Pro21/MergeTwoLists/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="11" />
+        <state relative-caret-position="105">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
