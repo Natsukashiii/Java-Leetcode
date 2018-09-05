@@ -1,4 +1,5 @@
-package Pro28.ImplementStr;
+package
+;
 
 public class Solution
 {
