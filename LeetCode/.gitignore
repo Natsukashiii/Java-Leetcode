@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+target/*
+~
+*.war
+*.iml
+.classpath
+.project
+.settings
+*.vscode
+out/*
+.idea/*
+/.idea/
+/src/test/
