@@ -1,5 +1,6 @@
 package Pro929.UniqueEmailAddresses;
 
+import java.util.HashSet;
 import java.util.Set;
 
 public class Solution
@@ -8,7 +9,7 @@ public class Solution
         if (emails.length == 0 || emails == null){
             return 0;
         }
-        Set<String> diffEmails = new HashSet<>();
+        Set<String> diffEmails = new HashSet<String>();
         for(String email : emails){
             String[] arr = email.split("@");
             String diffEmail = arr[0];
