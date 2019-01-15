@@ -10,6 +10,14 @@
         SELECT id,name,age FROM student WHERE id = #{id}
     </select>
 
+  <!--动态sql-->
+  <select id="getStudentByIdSQL" parameterType="int"
+    resultType="com.natsu.mybatiscachedemo.entity.Student">
+    SELECT id as "id",name,age FROM student
+    <if test="id==1">WHERE id = #{id}</if>
+
+  </select>
+
   <select id="getStudentByIdWithClassInfo" parameterType="int"
     resultType="com.natsu.mybatiscachedemo.entity.Student">
         SELECT  s.id,s.name,s.age,class.name as className

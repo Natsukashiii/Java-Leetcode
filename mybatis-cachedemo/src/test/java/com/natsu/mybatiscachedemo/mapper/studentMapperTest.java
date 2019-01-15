@@ -21,6 +21,12 @@ public class studentMapperTest {
   }
 
   @Test
+  public void testMybatis(){
+    SqlSession sqlSession = sqlSessionFactory.openSession(true);
+
+  }
+
+  @Test
   public void showCacheConfig() {
     System.out
         .println("local cache : " + sqlSessionFactory.getConfiguration().getLocalCacheScope());
@@ -37,10 +43,14 @@ public class studentMapperTest {
     studentMapper studentMapper = sqlSession.getMapper(
         com.natsu.mybatiscachedemo.mapper.studentMapper.class);
 
-    System.out.println(studentMapper.getStudentById(1));
-    System.out.println(studentMapper.getStudentById(1));
-    System.out.println(studentMapper.getStudentById(1));
+    // 直接执行SQL语句
+//    String statement = "com.natsu.mybatiscachedemo.mapper.studentMapper.getStudentById";
+//    Student res =sqlSession.selectOne(statement,1);
+//    System.out.println(res);
 
+    System.out.println(studentMapper.getStudentByIdSQL(4));
+//    System.out.println(studentMapper.getStudentById(1));
+//    System.out.println(studentMapper.getStudentById(1));
     sqlSession.close();
   }
 
@@ -88,4 +98,107 @@ public class studentMapperTest {
     System.out.println("studentMapper读取数据: " + studentMapper.getStudentById(1));
     System.out.println("studentMapper2读取数据: " + studentMapper2.getStudentById(1));
   }
+
+  /**
+   * SqlSession没有调用commit()方法时, 二级缓存不起作用
+   */
+  @Test
+  public void testSecondaryCache() {
+    SqlSession sqlSession1 = sqlSessionFactory.openSession(true);
+    SqlSession sqlSession2 = sqlSessionFactory.openSession(true);
+
+    studentMapper studentMapper1 = sqlSession1.getMapper(
+        com.natsu.mybatiscachedemo.mapper.studentMapper.class);
+    studentMapper studentMapper2 = sqlSession2.getMapper(
+        com.natsu.mybatiscachedemo.mapper.studentMapper.class);
+
+    System.out.println("studentMapper1: " + studentMapper1.getStudentById(1));
+    System.out.println("studentMapper2: " + studentMapper2.getStudentById(2));
+  }
+
+  /**
+   * commit 之后, sqlSession2 查询使用了缓存, 命中率0.5
+   */
+  @Test
+  public void testSecondaryCachewithCommit() {
+    SqlSession sqlSession1 = sqlSessionFactory.openSession(true);
+    SqlSession sqlSession2 = sqlSessionFactory.openSession(true);
+
+    studentMapper studentMapper = sqlSession1.getMapper(studentMapper.class);
+    studentMapper studentMapper2 = sqlSession2.getMapper(studentMapper.class);
+
+    System.out.println("studentMapper1: " + studentMapper.getStudentById(1));
+//    sqlSession1.commit();
+    sqlSession1.close();
+    System.out.println("studentMapper2: " + studentMapper2.getStudentById(1));
+  }
+
+  /**
+   * 更新之后 sqlSession2 并没有走缓存
+   */
+  @Test
+  public void testSecondaryCachewithUpdate() {
+    SqlSession sqlSession1 = sqlSessionFactory.openSession(true);
+    SqlSession sqlSession2 = sqlSessionFactory.openSession(true);
+    SqlSession sqlSession3 = sqlSessionFactory.openSession(true);
+
+    studentMapper studentMapper1 = sqlSession1.getMapper(studentMapper.class);
+    studentMapper studentMapper2 = sqlSession2.getMapper(studentMapper.class);
+    studentMapper studentMapper3 = sqlSession3.getMapper(studentMapper.class);
+
+    System.out.println("studentMapper1: " + studentMapper1.getStudentById(1));
+    sqlSession1.close();
+    System.out.println("studentMapper2: " + studentMapper2.getStudentById(1));
+
+    studentMapper3.updateStudentName("fangfang", 1);
+    sqlSession3.commit();
+    System.out.println("studentMapper2: " + studentMapper2.getStudentById(1));
+  }
+
+  /**
+   * MyBatis的二级缓存不适应用于映射文件中存在多表查询的情况
+   */
+  @Test
+  public void testSecondaryCachewithDiffNameSpace() {
+    SqlSession sqlSession1 = sqlSessionFactory.openSession(true);
+    SqlSession sqlSession2 = sqlSessionFactory.openSession(true);
+    SqlSession sqlSession3 = sqlSessionFactory.openSession(true);
+
+    studentMapper studentMapper1 = sqlSession1.getMapper(studentMapper.class);
+    studentMapper studentMapper2 = sqlSession2.getMapper(studentMapper.class);
+    classMapper classMapper = sqlSession3.getMapper(classMapper.class);
+
+    System.out.println("studentMapper1: " + studentMapper1.getStudentByIdWithClassInfo(1));
+    sqlSession1.close();
+
+    System.out.println("studentMapper2: " + studentMapper2.getStudentByIdWithClassInfo(1));
+
+    classMapper.updateClassName("一班lalala", 1);
+    sqlSession3.commit();
+
+    System.out.println("studentMapper2: " + studentMapper2.getStudentByIdWithClassInfo(1));
+  }
+
+  @Test
+  public void testSecondaryCachewithDiffNameSpacewithCache() throws Exception {
+    SqlSession sqlSession1 = sqlSessionFactory.openSession(true);
+    SqlSession sqlSession2 = sqlSessionFactory.openSession(true);
+    SqlSession sqlSession3 = sqlSessionFactory.openSession(true);
+
+    studentMapper studentMapper1 = sqlSession1.getMapper(studentMapper.class);
+    studentMapper studentMapper2 = sqlSession2.getMapper(studentMapper.class);
+    classMapper classMapper = sqlSession3.getMapper(classMapper.class);
+
+    System.out.println("studentMapper1: " + studentMapper1.getStudentByIdWithClassInfo(1));
+    sqlSession1.close();
+
+    System.out.println("studentMapper2: " + studentMapper2.getStudentByIdWithClassInfo(1));
+
+    classMapper.updateClassName("一班lalala", 1);
+    sqlSession3.commit();
+
+    System.out.println("studentMapper2: " + studentMapper2.getStudentByIdWithClassInfo(1));
+  }
+
+
 }
