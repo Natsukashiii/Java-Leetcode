@@ -1,4 +1,4 @@
-package Pro823.FlippinganImage;
+package Pro832.FlippinganImage;
 
 public class Solution {
     public static void main(String[] args) {
