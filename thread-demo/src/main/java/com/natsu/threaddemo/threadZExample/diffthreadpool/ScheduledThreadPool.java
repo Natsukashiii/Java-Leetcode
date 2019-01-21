@@ -1,4 +1,4 @@
-package com.natsu.threaddemo.diffThreadPool;
+package com.natsu.threaddemo.threadZExample.diffthreadpool;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

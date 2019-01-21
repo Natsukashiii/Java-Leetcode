@@ -1,4 +1,4 @@
-package com.natsu.threaddemo.threadCreate;
+package com.natsu.threaddemo.threadZExample.threadCreate;
 
 public class Thread2 implements Runnable {
 

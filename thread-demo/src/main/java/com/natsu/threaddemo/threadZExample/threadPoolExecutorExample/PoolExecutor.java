@@ -1,4 +1,4 @@
-package com.natsu.threaddemo.threadPoolExecutorExample;
+package com.natsu.threaddemo.threadZExample.threadPoolExecutorExample;
 
 import java.util.concurrent.ExecutorService;
 

@@ -1,4 +1,4 @@
-package com.natsu.threaddemo.threadCreate;
+package com.natsu.threaddemo.threadZExample.threadCreate;
 
 public class Thread1 extends Thread {
 private String name;

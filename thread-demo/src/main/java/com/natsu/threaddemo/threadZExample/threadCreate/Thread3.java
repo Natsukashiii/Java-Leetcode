@@ -1,4 +1,4 @@
-package com.natsu.threaddemo.threadCreate;
+package com.natsu.threaddemo.threadZExample.threadCreate;
 
 import java.util.concurrent.Callable;
 

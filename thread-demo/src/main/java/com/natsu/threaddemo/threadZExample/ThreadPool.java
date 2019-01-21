@@ -1,4 +1,4 @@
-package com.natsu.threaddemo.threadPoolExample;
+package com.natsu.threaddemo.threadZExample;
 
 import java.util.LinkedList;
 
