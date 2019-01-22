@@ -4,7 +4,6 @@ public class Hero_Wait_Notify {
 
   public String name;
   public float hp;
-
   public int damage;
 
   public Hero_Wait_Notify(String name, float hp, int damage) {

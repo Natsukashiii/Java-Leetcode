@@ -20,7 +20,7 @@ public class synchronized_example {
           System.out.println(this.getName() + ": is trying to occupy [someObject]");
           synchronized (someObject) {
             System.out.println(now() + ": " + this.getName() + ": occupy [someObject]");
-            Thread.sleep(5000);
+            Thread.sleep(2000);
             System.out.println(now() + ": " + this.getName() + ": release [someObject]");
           }
           System.out.println(">>> " + now() + ": thread1 is end...");
@@ -40,7 +40,7 @@ public class synchronized_example {
           System.out.println(this.getName() + ": is trying to occupy [someObject]");
           synchronized (someObject) {
             System.out.println(now() + ": " + this.getName() + ": occupy [someObject]");
-            Thread.sleep(5000);
+            Thread.sleep(2000);
             System.out.println(now() + ": " + this.getName() + ": release [someObject]");
           }
           System.out.println(">>> " + now() + ": thread2 is end...");

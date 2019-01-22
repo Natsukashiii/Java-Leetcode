@@ -19,6 +19,10 @@ public class concurrent_attack {
   }
 
 
+  /**
+   * 使用两个线程同时增加n次和减少n次同一个英雄的血量
+   * 多次尝试后, 会出现英雄的血量不为初始值的情况
+   */
   public static void attack_example() {
     System.out.println("===== attack_example start =====");
     final Hero gareen = new Hero("gareen", NUMBER);
@@ -87,6 +91,10 @@ public class concurrent_attack {
     System.out.println("attack_example end... ");
   }
 
+  /**
+   * 所有修改someObject的地方, 都要建立在占有someObject的基础上
+   * 间接的, 同一时间, 只能有一个线程修改英雄的hp
+   */
   public static void synchronized_object_attack() {
     System.out.println("===== synchronized_object_attack start =====");
 
@@ -164,6 +172,9 @@ public class concurrent_attack {
 
   }
 
+  /**
+   * 将hero作为一个同步对象, 所有线程访问的都是同一个hero对象
+   */
   public static void synchronized_hero_attack() {
     System.out.println("===== synchronized_hero_attack start =====");
 
@@ -241,6 +252,10 @@ public class concurrent_attack {
     System.out.println("synchronized_hero_attack end... ");
   }
 
+  /**
+   * 在方法前, 直接加上synchronized, 所对应的同步对象就是this
+   * 外部线程访问该方法时, 就不需要额外的synchronized
+   */
   public static void synchronized_method_attack() {
     System.out.println("===== synchronized_method_attack start =====");
 

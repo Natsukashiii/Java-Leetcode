@@ -53,10 +53,13 @@ public class connect_example {
     System.out.println("connect_test end...");
   }
 
+  /**
+   * 使用wait/notify进行交互
+   */
   public static void connect_wait_notify() {
     System.out.println("===== connect_wait_notify start =====");
 
-    final Hero_Wait_Notify gareen = new Hero_Wait_Notify("gareen", 10);
+    final Hero_Wait_Notify gareen = new Hero_Wait_Notify("gareen", 100);
     Thread thread1 = new Thread() {
       @Override
       public void run() {
