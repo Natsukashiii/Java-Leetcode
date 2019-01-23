@@ -1,11 +1,9 @@
-package com.natsu.threaddemo.threadPool;
+package com.natsu.threaddemo.threadPool.ThreadPoolCreate_Sys;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
-import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 public class ThreadPoolCreate_Sys {
@@ -101,6 +99,7 @@ public class ThreadPoolCreate_Sys {
     e.scheduleAtFixedRate(new ThreadRunnable("A"), 1000, 1000,
         TimeUnit.MILLISECONDS);
     e.scheduleAtFixedRate(new ThreadRunnable("B"), 1000, 5000, TimeUnit.MILLISECONDS);
+    // 如果执行任务的时间大于我们指定的时间执行间隔, 并不会开启一个新的线程, 而是等待该线程执行完毕
   }
 
 

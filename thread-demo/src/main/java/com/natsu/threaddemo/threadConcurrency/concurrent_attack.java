@@ -9,13 +9,13 @@ import com.natsu.threaddemo.threadConcurrency.Character.Hero_Syn_Method;
  */
 public class concurrent_attack {
 
-  final static int NUMBER = 10000;
+  final static int NUMBER = 100000;
 
   public static void main(String[] args) {
     attack_example();
-    synchronized_object_attack();
-    synchronized_hero_attack();
-    synchronized_method_attack();
+//    synchronized_object_attack();
+//    synchronized_hero_attack();
+//    synchronized_method_attack();
   }
 
 

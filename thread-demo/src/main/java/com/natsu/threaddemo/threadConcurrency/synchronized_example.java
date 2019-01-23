@@ -23,7 +23,7 @@ public class synchronized_example {
             Thread.sleep(2000);
             System.out.println(now() + ": " + this.getName() + ": release [someObject]");
           }
-          System.out.println(">>> " + now() + ": thread1 is end...");
+          System.out.println(now() + ": thread1 is end...");
         } catch (InterruptedException e) {
           e.printStackTrace();
         }
@@ -43,7 +43,7 @@ public class synchronized_example {
             Thread.sleep(2000);
             System.out.println(now() + ": " + this.getName() + ": release [someObject]");
           }
-          System.out.println(">>> " + now() + ": thread2 is end...");
+          System.out.println(  now() + ": thread2 is end...");
         } catch (InterruptedException e) {
           e.printStackTrace();
         }

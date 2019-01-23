@@ -1,4 +1,4 @@
-package com.natsu.threaddemo.threadPool;
+package com.natsu.threaddemo.threadPool.ThreadPoolCreate_Sys;
 
 public class ThreadRunnable implements Runnable {
 

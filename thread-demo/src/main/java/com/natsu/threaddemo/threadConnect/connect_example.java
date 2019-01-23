@@ -59,7 +59,7 @@ public class connect_example {
   public static void connect_wait_notify() {
     System.out.println("===== connect_wait_notify start =====");
 
-    final Hero_Wait_Notify gareen = new Hero_Wait_Notify("gareen", 100);
+    final Hero_Wait_Notify gareen = new Hero_Wait_Notify("gareen", 10);
     Thread thread1 = new Thread() {
       @Override
       public void run() {

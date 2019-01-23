@@ -1,4 +1,4 @@
-package com.natsu.threaddemo.threadPool;
+package com.natsu.threaddemo.threadPool.ThreadPoolCreate_Custom;
 
 public class ThreadPoolCreate_Custom {
 
