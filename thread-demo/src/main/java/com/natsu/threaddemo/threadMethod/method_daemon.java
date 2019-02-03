@@ -3,7 +3,7 @@ package com.natsu.threaddemo.threadMethod;
 public class method_daemon {
 
   public static void main(String[] args) {
-    thread_all_daemon();
+//    thread_all_daemon();
     thread_not_all_daemon();
   }
   /**

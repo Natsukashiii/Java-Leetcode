@@ -12,8 +12,8 @@ public class thread_create {
   final static Hero VS = new Hero("VS", 455, 80);
 
   public static void main(String[] args) {
-//    attack_without_thread();
-    attack_with_thread();
+    attack_without_thread();
+//    attack_with_thread();
 //    attack_with_runnable();
 //    attack_with_callable();
 //    attack_with_anonymous_class();
