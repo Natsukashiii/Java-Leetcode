@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19fa39c3-88ee-4a19-bdb9-3bcc55d0aa70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/ZTest/numberChange2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/ZTest/numberChange3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/ZTest/numberChange4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/ZTest/yanzhengma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/ZTest/yanzhengma2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/Zimage_reco/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/Zimage_reco/image_reco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro00/CameraCaught/CaptureImg$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro00/CameraCaught/CaptureImg$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro00/CameraCaught/CaptureImg$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro00/CameraCaught/CaptureImg$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro00/CameraCaught/CaptureImg$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro00/CameraCaught/CaptureImg$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro00/CameraCaught/CaptureImg.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro00/CameraCaught/CaptureImg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro02/AddTwoNumbers/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro02/AddTwoNumbers/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro02/AddTwoNumbers/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro02/AddTwoNumbers/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro04/MedianofArr/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro04/MedianofArr/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro05/LongestPalindrome/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro05/LongestPalindrome/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro08/StringtoInteger/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro08/StringtoInteger/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro09/PalindromeNumber/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro09/PalindromeNumber/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro10/RegularExpressionMatching/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro10/RegularExpressionMatching/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro11/ContainerwithMostWater/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro11/ContainerwithMostWater/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro12/IntToRoman/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro12/IntToRoman/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro13/RomanToInt/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro13/RomanToInt/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro14/LongestCommonPrefix/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro14/LongestCommonPrefix/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro15/Sum3/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro15/Sum3/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro16/ThreeSumClosest/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro16/ThreeSumClosest/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro17/LetterCombinationsofaPhoneNumber/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro17/LetterCombinationsofaPhoneNumber/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro18/FourSum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro18/FourSum/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro19/RemoveNthFromEnd/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro19/RemoveNthFromEnd/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro19/RemoveNthFromEnd/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro19/RemoveNthFromEnd/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro20/ValidParentheses/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro20/ValidParentheses/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro21/MergeTwoLists/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro21/MergeTwoLists/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro21/MergeTwoLists/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro21/MergeTwoLists/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro22/GenerateParentheses/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro22/GenerateParentheses/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro23/MergeTwoLists/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro23/MergeTwoLists/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro23/MergeTwoLists/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro23/MergeTwoLists/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro24/SwapPairs/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro24/SwapPairs/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro24/SwapPairs/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro24/SwapPairs/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro25/ReverseNodes/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro25/ReverseNodes/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro25/ReverseNodes/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro25/ReverseNodes/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro26/RemoveDuplicates/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro26/RemoveDuplicates/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro27/RemoveElement/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro27/RemoveElement/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro29/Divide/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro29/Divide/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro30/SubstringwithConcatenationofAllWords/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro30/SubstringwithConcatenationofAllWords/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Pro31/NextPermutation/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Pro31/NextPermutation/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/ZTest/HttpUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/ZTest/HttpUtils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/ZTest/HttpUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/ZTest/HttpUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/ZTest/numberChange3.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/ZTest/numberChange3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/ZTest/numberChange4.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/ZTest/numberChange4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/ZTest/numberChange5.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/ZTest/numberChange5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/ZTest/yanzhengma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/ZTest/yanzhengma2.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1524158880">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java-Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19fa39c3-88ee-4a19-bdb9-3bcc55d0aa70" name="Default Changelist" comment="" />
+      <created>1552887426905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552887426905</updated>
+      <workItem from="1552887428763" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="0" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
