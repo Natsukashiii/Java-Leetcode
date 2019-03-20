@@ -1,4 +1,4 @@
-package ProXX.timeCountUtil;
+package Pro000.timeCountUtil;
 
 
 import java.text.ParseException;
@@ -14,6 +14,8 @@ import java.util.concurrent.TimeUnit;
  * 根据传入的时间延迟任务执行
  * eg: 第一次传入8, 延迟8小时后执行; 执行4小时后,传入5, 则计算已经执行的时间, 只延迟一小时执行
  * eg: 第一次传入8, 延迟8小时后执行; 执行4小时后,传入3, 则计算已经执行的时间, 由于3比剩余执行时间少, 则立即执行
+ *
+ * 要修改成秒的话, 需要修改日期格式"yyyy-MM-dd HH:mm:ss", 并修改所有单位为1000, 以及任务定时的时间
  */
 public class TimeTaskUtil {
 
@@ -45,8 +47,7 @@ public class TimeTaskUtil {
     // 非首次执行, 取消该定时任务
     if (scheduledFuture != null) {
       scheduledFuture.cancel(true);
-      System.out.println("定时任务取消状态 " + scheduledFuture.isCancelled());
-
+      System.out.println("定时任务取消状态: " + scheduledFuture.isCancelled());
     }
     // 执行新任务(只执行一次)
     scheduledFuture = threadPool

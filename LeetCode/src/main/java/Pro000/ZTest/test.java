@@ -1,4 +1,4 @@
-package ZTest;
+package Pro000.ZTest;
 
 import java.util.Collection;
 import java.util.Collections;
