@@ -2,17 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="275d090d-9732-47e7-adc1-b812c72b01e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../JZoffer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JZoffer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/src/main/java/Pro00/CameraCaught/CaptureImg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/src/main/java/ProXX/FTPUtil/FTPUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/src/main/java/Pro000/FTPUtil/FTPUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/src/main/java/ProXX/Utils/FTPClientPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/src/main/java/Pro000/Utils/FTPClientPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/src/main/java/ProXX/timeCountUtil/TimeTaskUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/src/main/java/Pro000/timeCountUtil/TimeTaskUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/src/main/java/ZTest/ColorEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/src/main/java/Pro000/ZTest/ColorEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/src/main/java/ZTest/EnumMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/src/main/java/Pro000/ZTest/EnumMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/src/main/java/ZTest/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/src/main/java/Pro000/ZTest/HttpUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/src/main/java/ZTest/numberChange5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/src/main/java/Pro000/ZTest/numberChange5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/src/main/java/ZTest/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/src/main/java/Pro000/ZTest/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro01/Find/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro01/Find/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro02/ReplaceSpace/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro02/ReplaceSpace/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro03/PrintArrayList/AddList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro03/PrintArrayList/AddList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro03/PrintArrayList/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro03/PrintArrayList/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro03/PrintArrayList/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro03/PrintArrayList/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro04/ReConstructBinaryTree/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro04/ReConstructBinaryTree/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro04/ReConstructBinaryTree/TreeNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro04/ReConstructBinaryTree/TreeNodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro05/RealizeStack/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro05/RealizeStack/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro06/MinNumberInRotateArray/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro06/MinNumberInRotateArray/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro07/Fibonacci/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro07/Fibonacci/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro08/JumpFloor/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro08/JumpFloor/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro09/JumpFloorII/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro09/JumpFloorII/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro11/NumberOf1/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro11/NumberOf1/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro12/Power/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro12/Power/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro13/ReOrderArray/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro13/ReOrderArray/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro14/FindKthToTail/ListNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro14/FindKthToTail/ListNodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro14/FindKthToTail/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro14/FindKthToTail/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro15/ReverseList/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro15/ReverseList/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro15/ReverseList/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro15/ReverseList/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro16/Merge/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro16/Merge/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro16/Merge/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro16/Merge/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro17/HasSubtree/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro17/HasSubtree/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro17/HasSubtree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro17/HasSubtree/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro18/Mirror/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro18/Mirror/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro18/Mirror/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro18/Mirror/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro21/IsPopOrder/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro21/IsPopOrder/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro22/PrintFromTopToBottom/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro22/PrintFromTopToBottom/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro22/PrintFromTopToBottom/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro22/PrintFromTopToBottom/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro23/VerifySquenceOfBST/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro23/VerifySquenceOfBST/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro24/FindPath/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro24/FindPath/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro24/FindPath/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro24/FindPath/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro25/Clone/RandomListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro25/Clone/RandomListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro25/Clone/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro25/Clone/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro26/Convert/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro26/Convert/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro26/Convert/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro26/Convert/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro27/Permutation/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro27/Permutation/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro28/MoreThanHalfNum_Solution/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro28/MoreThanHalfNum_Solution/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro29/GetLeastNumbers_Solution/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro29/GetLeastNumbers_Solution/Solution$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro29/GetLeastNumbers_Solution/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro29/GetLeastNumbers_Solution/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro30/FindGreatestSumOfSubArray/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro30/FindGreatestSumOfSubArray/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro31/NumberOf1Between1AndN_Solution/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro31/NumberOf1Between1AndN_Solution/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro32/PrintMinNumber/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro32/PrintMinNumber/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro33/GetUglyNumber_Solution/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro33/GetUglyNumber_Solution/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro34/FirstNotRepeatingChar/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro34/FirstNotRepeatingChar/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro35/InversePairs/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro35/InversePairs/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro36/FindFirstCommonNode/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro36/FindFirstCommonNode/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro36/FindFirstCommonNode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro36/FindFirstCommonNode/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro37/GetNumberOfK/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro37/GetNumberOfK/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro38/TreeDepth/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro38/TreeDepth/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro38/TreeDepth/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro38/TreeDepth/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro39/IsBalanced_Solution/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro39/IsBalanced_Solution/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro39/IsBalanced_Solution/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro39/IsBalanced_Solution/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro40/FindNumsAppearOnce/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro40/FindNumsAppearOnce/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro42/LeftRotateString/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro42/LeftRotateString/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro43/ReverseSentence/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro43/ReverseSentence/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro44/isContinuous/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro44/isContinuous/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro45/LastRemaining_Solution/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro45/LastRemaining_Solution/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro46/Sum_Solution/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Pro46/Sum_Solution/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Testing/xxx/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/out/production/JavaExercises/Testing/xxx/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/src/Pro01/Find/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/src/Pro01/Find/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/src/Pro02/ReplaceSpace/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/src/Pro02/ReplaceSpace/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZoffer/src/Pro47/StrToInt/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JZoffer/src/Pro47/StrToInt/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,55 +79,139 @@
     <session id="398874170">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="39" />
+          <entry key="java" value="2091" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="39" />
+          <entry key="JAVA" value="2091" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/LRUCache.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Event.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2392">
-              <caret line="92" column="1" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
+            <state relative-caret-position="335">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="21" />
               <folding>
-                <element signature="e#153#168#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/EventHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="442">
+              <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+              <folding>
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/AcceptEventHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+              <folding>
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Dispatcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#298#323#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Acceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1118">
+              <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#335#348#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/ReactorDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -99,6 +236,16 @@
         <option value="$PROJECT_DIR$/src/main/java/algorithm/LRUCache/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithm/LRUCache/LRUCache.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithm/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/InputSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/EventType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Event.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/EventHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Selector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/AcceptEventHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Acceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Dispatcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/ReactorDemo.java" />
       </list>
     </option>
   </component>
@@ -160,7 +307,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="reactorPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -172,7 +328,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553070103881" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553145612916" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -202,29 +358,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553069300707</updated>
-      <workItem from="1553069305467" duration="829000" />
+      <workItem from="1553069305467" duration="880000" />
+      <workItem from="1553137230527" duration="3629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="829000" />
+    <option name="totallyTimeSpent" value="4509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Tail" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Statistic" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32947367" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -232,15 +383,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Statistic" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32947367" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,10 +410,11 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/LRUCache/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="519">
+          <caret line="92" column="1" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -267,21 +425,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/LRUCache/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="52">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/LRUCache.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2392">
-          <caret line="92" column="1" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/InputSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/EventType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="21" />
           <folding>
-            <element signature="e#153#168#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#295#302#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#897#904#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/AcceptEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_181/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="221" column="37" lean-forward="true" selection-start-line="221" selection-start-column="37" selection-end-line="221" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/EventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Dispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#298#323#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/ReactorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/reactorPattern/Acceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1118">
+          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#335#348#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
           </folding>
         </state>
       </provider>
